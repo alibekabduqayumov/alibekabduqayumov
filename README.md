@@ -19,7 +19,6 @@
 
 - 🔭 **School 21** — DSB (Data Science Bootcamp) projects
 - 🌱 Learning: `pandas`, `NumPy`, data visualization, ML basics
-- ⚡ Fun fact: I started coding seriously at 16
 
 ---
 
